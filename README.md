@@ -9,7 +9,7 @@
 
 # 👋 Hey, I'm **Vishvanshu Chauhan**
 
-🎓 **Computer Science & Engineering (AI)** student at **GL Bajaj Institute of Technology & Management**, Greater Noida.
+🎓 **Computer Science & Engineering (AI)** student at **GL Bajaj Institute of Technology & Management**, Greater Noida.  
 💡 Passionate about **AI, Web Development, and Generative AI**, I love building intelligent systems that create real impact.
 
 > *"Turning ideas into intelligent and scalable digital experiences."*
@@ -28,21 +28,21 @@
 
 ## 🧠 Skills & Tools
 
-**Languages:** C, C++, Java, Python
-**Frontend:** HTML, CSS, JavaScript, React
-**Backend:** Node.js, Express, Authentication, Hosting
-**Databases:** SQL, DBMS
-**AI & Chatbots:** Chatbase, Generative AI
+**Languages:** C, C++, Java, Python  
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, Express, Authentication, Hosting  
+**Databases:** SQL, DBMS  
+**AI & Chatbots:** Chatbase, Generative AI  
 **Tools:** VS Code, GitHub, Discord
 
 ---
 
 ## 🌟 Featured Projects
 
-🔹 **CMLRE Project** — *AI-enabled marine research platform (React, Node.js, Python, Chatbase)*
-🔹 **Mock Buddy** — *Mock interview web app for practice & improvement*
-🔹 **Voice Assistant (Manya)** — *Python-based voice command assistant*
-🔹 **E-Exam Application** — *Java-based online exam system (Intern project)*
+🔹 **CMLRE Project** — *AI-enabled marine research platform (React, Node.js, Python, Chatbase)*  
+🔹 **Mock Buddy** — *Mock interview web app for practice & improvement*  
+🔹 **Voice Assistant (Manya)** — *Python-based voice command assistant*  
+🔹 **E-Exam Application** — *Java-based online exam system (Intern project)*  
 🔹 **Aayudhm Game** — *2D game built using Godot & Aseprite*
 
 ---
