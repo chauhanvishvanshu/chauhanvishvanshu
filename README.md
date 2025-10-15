@@ -42,8 +42,11 @@
 **Backend & Databases:**  
 <code><img height="30" src="https://skillicons.dev/icons?i=nodejs,express,mysql"></code>
 
+**Version Control & Hosting:**  
+<code><img height="30" src="https://skillicons.dev/icons?i=git,github,netlify,vercel"></code>
+
 **AI & Tools:**  
-<code><img height="30" src="https://skillicons.dev/icons?i=github,vscode"></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=vscode"></code>
 
 ---
 
@@ -94,6 +97,10 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
 </p>
 
 ---
