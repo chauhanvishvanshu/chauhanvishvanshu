@@ -72,11 +72,11 @@
 
 ## 🌟 Featured Projects
 
-🔹 [**CMLRE Project**](https://github.com/yourrepo) — *AI-enabled marine research platform (React, Node.js, Python, Chatbase)*  
-🔹 [**Mock Buddy**](https://github.com/yourrepo) — *Mock interview web app for self-practice & performance tracking*  
-🔹 [**Voice Assistant (Manya)**](https://github.com/yourrepo) — *Python-based voice command assistant*  
-🔹 [**E-Exam Application**](https://github.com/yourrepo) — *Java-based online exam system (Intern project)*  
-🔹 [**Aayudhm Game**](https://github.com/yourrepo) — *2D action game built using Godot & Aseprite*
+🔹 **CMLRE Project** — *AI-enabled marine research platform (React, Node.js, Python, Chatbase)*  
+🔹 **Mock Buddy** — *Mock interview web app for self-practice & performance tracking*  
+🔹 **Voice Assistant (Manya)** — *Python-based voice command assistant*  
+🔹 **E-Exam Application** — *Java-based online exam system (Intern project)*  
+🔹 **Aayudhm Game** — *2D action game built using Godot & Aseprite*
 
 ---
 
