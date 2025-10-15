@@ -27,7 +27,7 @@
 * 💻 Skilled in **Full-Stack Development**, **AI Chatbots**, and **Machine Learning**
 * 🌱 Exploring **AI-driven Web Applications** and **Automation Tools**
 * 🤝 Open to **collaboration** and **community projects**
-* 🧩 Experienced with **Git-based workflows** and **cloud deployment** on **Netlify** & **Vercel**
+* 🧩 Experienced with **Git-based workflows**, **CI/CD pipelines (GitHub Actions)**, and **cloud deployment** on **Netlify** & **Vercel**
 * 🎯 Strong foundation in **DSA, OS, COA, and DBMS**
 
 ---
@@ -43,8 +43,8 @@
 **Backend & Databases:**  
 <code><img height="30" src="https://skillicons.dev/icons?i=nodejs,express,mysql"></code>
 
-**Version Control & Hosting:**  
-<code><img height="30" src="https://skillicons.dev/icons?i=git,github,netlify,vercel"></code>
+**Version Control, CI/CD & Hosting:**  
+<code><img height="30" src="https://skillicons.dev/icons?i=git,github,githubactions,netlify,vercel"></code>
 
 **AI & Tools:**  
 <code><img height="30" src="https://skillicons.dev/icons?i=vscode"></code>
@@ -100,6 +100,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
 </p>
