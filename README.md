@@ -27,6 +27,7 @@
 * 💻 Skilled in **Full-Stack Development**, **AI Chatbots**, and **Machine Learning**
 * 🌱 Exploring **AI-driven Web Applications** and **Automation Tools**
 * 🤝 Open to **collaboration** and **community projects**
+* 🧩 Experienced with **Git-based workflows** and **cloud deployment** on **Netlify** & **Vercel**
 * 🎯 Strong foundation in **DSA, OS, COA, and DBMS**
 
 ---
